@@ -1,0 +1,12 @@
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\26_Rekurziv_Osszeadas\bin\Debug\26_Rekurziv_Osszeadas.exe.config
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\26_Rekurziv_Osszeadas\bin\Debug\26_Rekurziv_Osszeadas.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\26_Rekurziv_Osszeadas\bin\Debug\26_Rekurziv_Osszeadas.pdb
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\26_Rekurziv_Osszeadas\obj\Debug\26_Rekurziv_Osszeadas.csproj.CoreCompileInputs.cache
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\26_Rekurziv_Osszeadas\obj\Debug\26_Rekurziv_Osszeadas.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\26_Rekurziv_Osszeadas\obj\Debug\26_Rekurziv_Osszeadas.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\26_Rekurziv_Osszeadas\bin\Debug\26_Rekurziv_Osszeadas.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\26_Rekurziv_Osszeadas\bin\Debug\26_Rekurziv_Osszeadas.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\26_Rekurziv_Osszeadas\bin\Debug\26_Rekurziv_Osszeadas.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\26_Rekurziv_Osszeadas\obj\Debug\26_Rekurziv_Osszeadas.csprojResolveAssemblyReference.cache
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\26_Rekurziv_Osszeadas\obj\Debug\26_Rekurziv_Osszeadas.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\26_Rekurziv_Osszeadas\obj\Debug\26_Rekurziv_Osszeadas.pdb

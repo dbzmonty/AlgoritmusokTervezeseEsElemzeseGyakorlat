@@ -1,0 +1,5 @@
+E:\Algo_2_Gyakorlat_Dbz\17_Rendezes_Beszuro\bin\Debug\17_Rendezes_Beszuro.exe.config
+E:\Algo_2_Gyakorlat_Dbz\17_Rendezes_Beszuro\bin\Debug\17_Rendezes_Beszuro.exe
+E:\Algo_2_Gyakorlat_Dbz\17_Rendezes_Beszuro\bin\Debug\17_Rendezes_Beszuro.pdb
+E:\Algo_2_Gyakorlat_Dbz\17_Rendezes_Beszuro\obj\Debug\17_Rendezes_Beszuro.exe
+E:\Algo_2_Gyakorlat_Dbz\17_Rendezes_Beszuro\obj\Debug\17_Rendezes_Beszuro.pdb

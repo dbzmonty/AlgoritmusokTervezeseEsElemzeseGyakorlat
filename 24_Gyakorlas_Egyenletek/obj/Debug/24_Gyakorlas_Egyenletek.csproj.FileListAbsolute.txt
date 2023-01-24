@@ -1,0 +1,6 @@
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\24_Gyakorlas_Egyenletek\bin\Debug\24_Gyakorlas_Egyenletek.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\24_Gyakorlas_Egyenletek\bin\Debug\24_Gyakorlas_Egyenletek.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\24_Gyakorlas_Egyenletek\bin\Debug\24_Gyakorlas_Egyenletek.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\24_Gyakorlas_Egyenletek\obj\Debug\24_Gyakorlas_Egyenletek.csprojResolveAssemblyReference.cache
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\24_Gyakorlas_Egyenletek\obj\Debug\24_Gyakorlas_Egyenletek.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\24_Gyakorlas_Egyenletek\obj\Debug\24_Gyakorlas_Egyenletek.pdb

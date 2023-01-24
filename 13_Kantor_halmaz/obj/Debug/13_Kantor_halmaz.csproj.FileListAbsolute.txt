@@ -1,0 +1,19 @@
+C:\!!!!\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\bin\Debug\13_Kantor_halmaz.exe.config
+C:\!!!!\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\obj\Debug\13_Kantor_halmaz.csprojResolveAssemblyReference.cache
+C:\!!!!\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\obj\Debug\_13_Kantor_halmaz.Form1.resources
+C:\!!!!\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\obj\Debug\_13_Kantor_halmaz.Properties.Resources.resources
+C:\!!!!\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\obj\Debug\13_Kantor_halmaz.csproj.GenerateResource.Cache
+C:\!!!!\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\bin\Debug\13_Kantor_halmaz.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\bin\Debug\13_Kantor_halmaz.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\obj\Debug\13_Kantor_halmaz.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\obj\Debug\13_Kantor_halmaz.pdb
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\bin\Debug\13_Kantor_halmaz.exe.config
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\bin\Debug\13_Kantor_halmaz.exe
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\bin\Debug\13_Kantor_halmaz.pdb
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\obj\Debug\13_Kantor_halmaz.csprojAssemblyReference.cache
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\obj\Debug\_13_Kantor_halmaz.Form1.resources
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\obj\Debug\_13_Kantor_halmaz.Properties.Resources.resources
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\obj\Debug\13_Kantor_halmaz.csproj.GenerateResource.cache
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\obj\Debug\13_Kantor_halmaz.csproj.CoreCompileInputs.cache
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\obj\Debug\13_Kantor_halmaz.exe
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\13_Kantor_halmaz\obj\Debug\13_Kantor_halmaz.pdb

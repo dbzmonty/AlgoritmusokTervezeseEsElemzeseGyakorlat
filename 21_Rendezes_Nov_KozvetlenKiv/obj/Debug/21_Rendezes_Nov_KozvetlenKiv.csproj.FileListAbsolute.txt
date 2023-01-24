@@ -1,0 +1,12 @@
+E:\Algo_2_Gyakorlat_Dbz\21_Rendezes_Nov_KozvetlenKiv\bin\Debug\21_Rendezes_Nov_KozvetlenKiv.exe.config
+E:\Algo_2_Gyakorlat_Dbz\21_Rendezes_Nov_KozvetlenKiv\bin\Debug\21_Rendezes_Nov_KozvetlenKiv.exe
+E:\Algo_2_Gyakorlat_Dbz\21_Rendezes_Nov_KozvetlenKiv\bin\Debug\21_Rendezes_Nov_KozvetlenKiv.pdb
+E:\Algo_2_Gyakorlat_Dbz\21_Rendezes_Nov_KozvetlenKiv\obj\Debug\21_Rendezes_Nov_KozvetlenKiv.csprojResolveAssemblyReference.cache
+E:\Algo_2_Gyakorlat_Dbz\21_Rendezes_Nov_KozvetlenKiv\obj\Debug\21_Rendezes_Nov_KozvetlenKiv.exe
+E:\Algo_2_Gyakorlat_Dbz\21_Rendezes_Nov_KozvetlenKiv\obj\Debug\21_Rendezes_Nov_KozvetlenKiv.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\21_Rendezes_Nov_KozvetlenKiv\bin\Debug\21_Rendezes_Nov_KozvetlenKiv.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\21_Rendezes_Nov_KozvetlenKiv\bin\Debug\21_Rendezes_Nov_KozvetlenKiv.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\21_Rendezes_Nov_KozvetlenKiv\bin\Debug\21_Rendezes_Nov_KozvetlenKiv.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\21_Rendezes_Nov_KozvetlenKiv\obj\Debug\21_Rendezes_Nov_KozvetlenKiv.csprojResolveAssemblyReference.cache
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\21_Rendezes_Nov_KozvetlenKiv\obj\Debug\21_Rendezes_Nov_KozvetlenKiv.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\21_Rendezes_Nov_KozvetlenKiv\obj\Debug\21_Rendezes_Nov_KozvetlenKiv.pdb

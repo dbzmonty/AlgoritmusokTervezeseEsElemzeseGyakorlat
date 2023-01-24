@@ -1,0 +1,5 @@
+C:\!!!!\Algo_2_Gyakorlat_Dbz\10_Kereses_Linearis\bin\Debug\10_Kereses_Linearis.exe.config
+C:\!!!!\Algo_2_Gyakorlat_Dbz\10_Kereses_Linearis\bin\Debug\10_Kereses_Linearis.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\10_Kereses_Linearis\bin\Debug\10_Kereses_Linearis.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\10_Kereses_Linearis\obj\Debug\10_Kereses_Linearis.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\10_Kereses_Linearis\obj\Debug\10_Kereses_Linearis.pdb

@@ -1,0 +1,17 @@
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\bin\Debug\30_Gyakorlas_Rajzolos_Y.exe.config
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\bin\Debug\30_Gyakorlas_Rajzolos_Y.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\bin\Debug\30_Gyakorlas_Rajzolos_Y.pdb
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\obj\Debug\_30_Gyakorlas_Rajzolos_Y.Form1.resources
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\obj\Debug\_30_Gyakorlas_Rajzolos_Y.Properties.Resources.resources
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\obj\Debug\30_Gyakorlas_Rajzolos_Y.csproj.GenerateResource.cache
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\obj\Debug\30_Gyakorlas_Rajzolos_Y.csproj.CoreCompileInputs.cache
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\obj\Debug\30_Gyakorlas_Rajzolos_Y.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\obj\Debug\30_Gyakorlas_Rajzolos_Y.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\bin\Debug\30_Gyakorlas_Rajzolos_Y.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\obj\Debug\30_Gyakorlas_Rajzolos_Y.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\obj\Debug\30_Gyakorlas_Rajzolos_Y.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\bin\Debug\30_Gyakorlas_Rajzolos_Y.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\bin\Debug\30_Gyakorlas_Rajzolos_Y.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\obj\Debug\_30_Gyakorlas_Rajzolos_Y.Form1.resources
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\obj\Debug\_30_Gyakorlas_Rajzolos_Y.Properties.Resources.resources
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\30_Gyakorlas_Rajzolos_Y\obj\Debug\30_Gyakorlas_Rajzolos_Y.csproj.GenerateResource.Cache

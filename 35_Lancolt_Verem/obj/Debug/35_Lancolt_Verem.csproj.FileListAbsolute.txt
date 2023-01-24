@@ -1,0 +1,5 @@
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\35_Lancolt_Verem\bin\Debug\35_Lancolt_Verem.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\35_Lancolt_Verem\bin\Debug\35_Lancolt_Verem.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\35_Lancolt_Verem\bin\Debug\35_Lancolt_Verem.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\35_Lancolt_Verem\obj\Debug\35_Lancolt_Verem.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\35_Lancolt_Verem\obj\Debug\35_Lancolt_Verem.pdb

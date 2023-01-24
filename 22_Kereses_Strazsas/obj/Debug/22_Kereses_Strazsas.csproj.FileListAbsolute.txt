@@ -1,0 +1,6 @@
+E:\Algo_2_Gyakorlat_Dbz\22_Kereses_Strazsas\bin\Debug\22_Kereses_Strazsas.exe.config
+E:\Algo_2_Gyakorlat_Dbz\22_Kereses_Strazsas\bin\Debug\22_Kereses_Strazsas.exe
+E:\Algo_2_Gyakorlat_Dbz\22_Kereses_Strazsas\bin\Debug\22_Kereses_Strazsas.pdb
+E:\Algo_2_Gyakorlat_Dbz\22_Kereses_Strazsas\obj\Debug\22_Kereses_Strazsas.csprojResolveAssemblyReference.cache
+E:\Algo_2_Gyakorlat_Dbz\22_Kereses_Strazsas\obj\Debug\22_Kereses_Strazsas.exe
+E:\Algo_2_Gyakorlat_Dbz\22_Kereses_Strazsas\obj\Debug\22_Kereses_Strazsas.pdb

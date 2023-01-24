@@ -1,0 +1,11 @@
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\28_Rendezes_Csokk_MaxKiv\bin\Debug\28_Rendezes_Csokk_MaxKiv.exe.config
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\28_Rendezes_Csokk_MaxKiv\bin\Debug\28_Rendezes_Csokk_MaxKiv.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\28_Rendezes_Csokk_MaxKiv\bin\Debug\28_Rendezes_Csokk_MaxKiv.pdb
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\28_Rendezes_Csokk_MaxKiv\obj\Debug\28_Rendezes_Csokk_MaxKiv.csproj.CoreCompileInputs.cache
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\28_Rendezes_Csokk_MaxKiv\obj\Debug\28_Rendezes_Csokk_MaxKiv.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\28_Rendezes_Csokk_MaxKiv\obj\Debug\28_Rendezes_Csokk_MaxKiv.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\28_Rendezes_Csokk_MaxKiv\bin\Debug\28_Rendezes_Csokk_MaxKiv.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\28_Rendezes_Csokk_MaxKiv\bin\Debug\28_Rendezes_Csokk_MaxKiv.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\28_Rendezes_Csokk_MaxKiv\bin\Debug\28_Rendezes_Csokk_MaxKiv.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\28_Rendezes_Csokk_MaxKiv\obj\Debug\28_Rendezes_Csokk_MaxKiv.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\28_Rendezes_Csokk_MaxKiv\obj\Debug\28_Rendezes_Csokk_MaxKiv.pdb

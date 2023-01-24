@@ -1,0 +1,11 @@
+E:\Algo_2_Gyakorlat_Dbz\20_Rendezes_Nov_MinKiv\bin\Debug\20_Rendezes_Nov_MinKiv.exe.config
+E:\Algo_2_Gyakorlat_Dbz\20_Rendezes_Nov_MinKiv\bin\Debug\20_Rendezes_Nov_MinKiv.exe
+E:\Algo_2_Gyakorlat_Dbz\20_Rendezes_Nov_MinKiv\bin\Debug\20_Rendezes_Nov_MinKiv.pdb
+E:\Algo_2_Gyakorlat_Dbz\20_Rendezes_Nov_MinKiv\obj\Debug\20_Rendezes_Nov_MinKiv.exe
+E:\Algo_2_Gyakorlat_Dbz\20_Rendezes_Nov_MinKiv\obj\Debug\20_Rendezes_Nov_MinKiv.pdb
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\20_Rendezes_Nov_MinKiv\bin\Debug\20_Rendezes_Nov_MinKiv.exe.config
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\20_Rendezes_Nov_MinKiv\bin\Debug\20_Rendezes_Nov_MinKiv.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\20_Rendezes_Nov_MinKiv\bin\Debug\20_Rendezes_Nov_MinKiv.pdb
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\20_Rendezes_Nov_MinKiv\obj\Debug\20_Rendezes_Nov_MinKiv.csproj.CoreCompileInputs.cache
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\20_Rendezes_Nov_MinKiv\obj\Debug\20_Rendezes_Nov_MinKiv.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\20_Rendezes_Nov_MinKiv\obj\Debug\20_Rendezes_Nov_MinKiv.pdb

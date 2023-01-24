@@ -1,0 +1,12 @@
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\27_Rendezes_Csokk_MinKiv\bin\Debug\27_Rendezes_Csokk_MinKiv.exe.config
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\27_Rendezes_Csokk_MinKiv\bin\Debug\27_Rendezes_Csokk_MinKiv.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\27_Rendezes_Csokk_MinKiv\bin\Debug\27_Rendezes_Csokk_MinKiv.pdb
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\27_Rendezes_Csokk_MinKiv\obj\Debug\27_Rendezes_Csokk_MinKiv.csproj.CoreCompileInputs.cache
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\27_Rendezes_Csokk_MinKiv\obj\Debug\27_Rendezes_Csokk_MinKiv.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\27_Rendezes_Csokk_MinKiv\obj\Debug\27_Rendezes_Csokk_MinKiv.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\27_Rendezes_Csokk_MinKiv\bin\Debug\27_Rendezes_Csokk_MinKiv.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\27_Rendezes_Csokk_MinKiv\bin\Debug\27_Rendezes_Csokk_MinKiv.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\27_Rendezes_Csokk_MinKiv\bin\Debug\27_Rendezes_Csokk_MinKiv.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\27_Rendezes_Csokk_MinKiv\obj\Debug\27_Rendezes_Csokk_MinKiv.csprojResolveAssemblyReference.cache
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\27_Rendezes_Csokk_MinKiv\obj\Debug\27_Rendezes_Csokk_MinKiv.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\27_Rendezes_Csokk_MinKiv\obj\Debug\27_Rendezes_Csokk_MinKiv.pdb

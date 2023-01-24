@@ -1,0 +1,6 @@
+E:\Algo_2_Gyakorlat_Dbz\19_Eldontes\bin\Debug\19_Eldontes.exe.config
+E:\Algo_2_Gyakorlat_Dbz\19_Eldontes\bin\Debug\19_Eldontes.exe
+E:\Algo_2_Gyakorlat_Dbz\19_Eldontes\bin\Debug\19_Eldontes.pdb
+E:\Algo_2_Gyakorlat_Dbz\19_Eldontes\obj\Debug\19_Eldontes.csprojResolveAssemblyReference.cache
+E:\Algo_2_Gyakorlat_Dbz\19_Eldontes\obj\Debug\19_Eldontes.exe
+E:\Algo_2_Gyakorlat_Dbz\19_Eldontes\obj\Debug\19_Eldontes.pdb

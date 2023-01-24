@@ -1,0 +1,12 @@
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\34_Lancolt_Lista_Ketiranyu_Strazsas\bin\Debug\34_Lancolt_Lista_Ketiranyu_Strazsas.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\34_Lancolt_Lista_Ketiranyu_Strazsas\bin\Debug\34_Lancolt_Lista_Ketiranyu_Strazsas.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\34_Lancolt_Lista_Ketiranyu_Strazsas\bin\Debug\34_Lancolt_Lista_Ketiranyu_Strazsas.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\34_Lancolt_Lista_Ketiranyu_Strazsas\obj\Debug\34_Lancolt_Lista_Ketiranyu_Strazsas.csprojResolveAssemblyReference.cache
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\34_Lancolt_Lista_Ketiranyu_Strazsas\obj\Debug\34_Lancolt_Lista_Ketiranyu_Strazsas.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\34_Lancolt_Lista_Ketiranyu_Strazsas\obj\Debug\34_Lancolt_Lista_Ketiranyu_Strazsas.pdb
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\34_Lancolt_Lista_Ketiranyu_Strazsas\bin\Debug\34_Lancolt_Lista_Ketiranyu_Strazsas.exe.config
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\34_Lancolt_Lista_Ketiranyu_Strazsas\bin\Debug\34_Lancolt_Lista_Ketiranyu_Strazsas.exe
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\34_Lancolt_Lista_Ketiranyu_Strazsas\bin\Debug\34_Lancolt_Lista_Ketiranyu_Strazsas.pdb
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\34_Lancolt_Lista_Ketiranyu_Strazsas\obj\Debug\34_Lancolt_Lista_Ketiranyu_Strazsas.csproj.CoreCompileInputs.cache
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\34_Lancolt_Lista_Ketiranyu_Strazsas\obj\Debug\34_Lancolt_Lista_Ketiranyu_Strazsas.exe
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\34_Lancolt_Lista_Ketiranyu_Strazsas\obj\Debug\34_Lancolt_Lista_Ketiranyu_Strazsas.pdb

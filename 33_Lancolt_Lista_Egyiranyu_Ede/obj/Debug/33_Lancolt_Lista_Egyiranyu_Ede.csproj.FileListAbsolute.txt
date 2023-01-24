@@ -1,0 +1,12 @@
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\33_Lancolt_Lista_Egyiranyu_Ede\bin\Debug\33_Lancolt_Lista_Egyiranyu_Ede.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\33_Lancolt_Lista_Egyiranyu_Ede\bin\Debug\33_Lancolt_Lista_Egyiranyu_Ede.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\33_Lancolt_Lista_Egyiranyu_Ede\bin\Debug\33_Lancolt_Lista_Egyiranyu_Ede.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\33_Lancolt_Lista_Egyiranyu_Ede\obj\Debug\33_Lancolt_Lista_Egyiranyu_Ede.csprojResolveAssemblyReference.cache
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\33_Lancolt_Lista_Egyiranyu_Ede\obj\Debug\33_Lancolt_Lista_Egyiranyu_Ede.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\33_Lancolt_Lista_Egyiranyu_Ede\obj\Debug\33_Lancolt_Lista_Egyiranyu_Ede.pdb
+E:\yy Ebben dolgozni\Algo_2_Gyakorlat_Dbz\33_Lancolt_Lista_Egyiranyu_Ede\bin\Debug\33_Lancolt_Lista_Egyiranyu_Ede.exe.config
+E:\yy Ebben dolgozni\Algo_2_Gyakorlat_Dbz\33_Lancolt_Lista_Egyiranyu_Ede\bin\Debug\33_Lancolt_Lista_Egyiranyu_Ede.exe
+E:\yy Ebben dolgozni\Algo_2_Gyakorlat_Dbz\33_Lancolt_Lista_Egyiranyu_Ede\bin\Debug\33_Lancolt_Lista_Egyiranyu_Ede.pdb
+E:\yy Ebben dolgozni\Algo_2_Gyakorlat_Dbz\33_Lancolt_Lista_Egyiranyu_Ede\obj\Debug\33_Lancolt_Lista_Egyiranyu_Ede.csproj.CoreCompileInputs.cache
+E:\yy Ebben dolgozni\Algo_2_Gyakorlat_Dbz\33_Lancolt_Lista_Egyiranyu_Ede\obj\Debug\33_Lancolt_Lista_Egyiranyu_Ede.exe
+E:\yy Ebben dolgozni\Algo_2_Gyakorlat_Dbz\33_Lancolt_Lista_Egyiranyu_Ede\obj\Debug\33_Lancolt_Lista_Egyiranyu_Ede.pdb

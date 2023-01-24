@@ -1,0 +1,12 @@
+C:\!!!!\Algo_2_Gyakorlat_Dbz\05_Szo_Megfordito\bin\Debug\05_Szo_Megfordito.exe.config
+C:\!!!!\Algo_2_Gyakorlat_Dbz\05_Szo_Megfordito\bin\Debug\05_Szo_Megfordito.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\05_Szo_Megfordito\bin\Debug\05_Szo_Megfordito.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\05_Szo_Megfordito\obj\Debug\05_Szo_Megfordito.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\05_Szo_Megfordito\obj\Debug\05_Szo_Megfordito.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\05_Szo_Megfordito\obj\Debug\05_Szo_Megfordito.csprojResolveAssemblyReference.cache
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\05_Szo_Megfordito\bin\Debug\05_Szo_Megfordito.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\05_Szo_Megfordito\bin\Debug\05_Szo_Megfordito.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\05_Szo_Megfordito\bin\Debug\05_Szo_Megfordito.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\05_Szo_Megfordito\obj\Debug\05_Szo_Megfordito.csprojResolveAssemblyReference.cache
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\05_Szo_Megfordito\obj\Debug\05_Szo_Megfordito.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\05_Szo_Megfordito\obj\Debug\05_Szo_Megfordito.pdb

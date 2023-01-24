@@ -1,0 +1,6 @@
+C:\!!!!\Algo_2_Gyakorlat_Dbz\08_Atlag\bin\Debug\08_Atlag.exe.config
+C:\!!!!\Algo_2_Gyakorlat_Dbz\08_Atlag\bin\Debug\08_Atlag.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\08_Atlag\bin\Debug\08_Atlag.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\08_Atlag\obj\Debug\08_Atlag.csprojResolveAssemblyReference.cache
+C:\!!!!\Algo_2_Gyakorlat_Dbz\08_Atlag\obj\Debug\08_Atlag.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\08_Atlag\obj\Debug\08_Atlag.pdb

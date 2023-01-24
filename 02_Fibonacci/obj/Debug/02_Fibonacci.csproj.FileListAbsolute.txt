@@ -1,0 +1,11 @@
+C:\!!!!\Algo_2_Gyakorlat_Dbz\02_Fibonacci\bin\Debug\02_Fibonacci.exe.config
+C:\!!!!\Algo_2_Gyakorlat_Dbz\02_Fibonacci\bin\Debug\02_Fibonacci.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\02_Fibonacci\bin\Debug\02_Fibonacci.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\02_Fibonacci\obj\Debug\02_Fibonacci.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\02_Fibonacci\obj\Debug\02_Fibonacci.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\02_Fibonacci\bin\Debug\02_Fibonacci.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\02_Fibonacci\bin\Debug\02_Fibonacci.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\02_Fibonacci\bin\Debug\02_Fibonacci.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\02_Fibonacci\obj\Debug\02_Fibonacci.csprojResolveAssemblyReference.cache
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\02_Fibonacci\obj\Debug\02_Fibonacci.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\02_Fibonacci\obj\Debug\02_Fibonacci.pdb

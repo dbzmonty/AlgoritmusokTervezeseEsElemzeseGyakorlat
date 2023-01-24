@@ -1,0 +1,11 @@
+C:\!!!!\Algo_2_Gyakorlat_Dbz\03_Hatvanyozas\bin\Debug\03_Hatvanyozas.exe.config
+C:\!!!!\Algo_2_Gyakorlat_Dbz\03_Hatvanyozas\bin\Debug\03_Hatvanyozas.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\03_Hatvanyozas\bin\Debug\03_Hatvanyozas.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\03_Hatvanyozas\obj\Debug\03_Hatvanyozas.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\03_Hatvanyozas\obj\Debug\03_Hatvanyozas.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\03_Hatvanyozas\bin\Debug\03_Hatvanyozas.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\03_Hatvanyozas\bin\Debug\03_Hatvanyozas.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\03_Hatvanyozas\bin\Debug\03_Hatvanyozas.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\03_Hatvanyozas\obj\Debug\03_Hatvanyozas.csprojResolveAssemblyReference.cache
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\03_Hatvanyozas\obj\Debug\03_Hatvanyozas.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\03_Hatvanyozas\obj\Debug\03_Hatvanyozas.pdb

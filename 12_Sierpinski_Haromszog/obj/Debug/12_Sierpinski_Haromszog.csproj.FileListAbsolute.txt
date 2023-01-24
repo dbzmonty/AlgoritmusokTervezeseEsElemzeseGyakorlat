@@ -1,0 +1,19 @@
+C:\!!!!\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\bin\Debug\12_Sierpinski_Haromszog.exe.config
+C:\!!!!\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\bin\Debug\12_Sierpinski_Haromszog.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\bin\Debug\12_Sierpinski_Haromszog.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\obj\Debug\12_Sierpinski_Haromszog.csprojResolveAssemblyReference.cache
+C:\!!!!\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\obj\Debug\_12_Sierpinski_Haromszog.Properties.Resources.resources
+C:\!!!!\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\obj\Debug\12_Sierpinski_Haromszog.csproj.GenerateResource.Cache
+C:\!!!!\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\obj\Debug\12_Sierpinski_Haromszog.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\obj\Debug\12_Sierpinski_Haromszog.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\obj\Debug\_12_Sierpinski_Haromszog.Form1.resources
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\bin\Debug\12_Sierpinski_Haromszog.exe.config
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\bin\Debug\12_Sierpinski_Haromszog.exe
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\bin\Debug\12_Sierpinski_Haromszog.pdb
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\obj\Debug\12_Sierpinski_Haromszog.csprojAssemblyReference.cache
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\obj\Debug\_12_Sierpinski_Haromszog.Form1.resources
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\obj\Debug\_12_Sierpinski_Haromszog.Properties.Resources.resources
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\obj\Debug\12_Sierpinski_Haromszog.csproj.GenerateResource.cache
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\obj\Debug\12_Sierpinski_Haromszog.csproj.CoreCompileInputs.cache
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\obj\Debug\12_Sierpinski_Haromszog.exe
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\12_Sierpinski_Haromszog\obj\Debug\12_Sierpinski_Haromszog.pdb

@@ -1,0 +1,5 @@
+C:\!!!!\Algo_2_Gyakorlat_Dbz\04_Palindrom\bin\Debug\04_Palindrom.exe.config
+C:\!!!!\Algo_2_Gyakorlat_Dbz\04_Palindrom\bin\Debug\04_Palindrom.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\04_Palindrom\bin\Debug\04_Palindrom.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\04_Palindrom\obj\Debug\04_Palindrom.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\04_Palindrom\obj\Debug\04_Palindrom.pdb

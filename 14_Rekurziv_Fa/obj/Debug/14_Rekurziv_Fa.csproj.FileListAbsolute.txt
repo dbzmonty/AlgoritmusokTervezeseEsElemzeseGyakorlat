@@ -1,0 +1,46 @@
+C:\!!!!\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.exe.config
+C:\!!!!\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.csprojResolveAssemblyReference.cache
+C:\!!!!\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\_14_Rekurziv_Fa.Form1.resources
+C:\!!!!\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\_14_Rekurziv_Fa.Properties.Resources.resources
+C:\!!!!\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.csproj.GenerateResource.Cache
+C:\!!!!\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.pdb
+E:\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.exe.config
+E:\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.exe
+E:\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.pdb
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.exe.config
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.pdb
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.csprojAssemblyReference.cache
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\_14_Rekurziv_Fa.Form1.resources
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\_14_Rekurziv_Fa.Properties.Resources.resources
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.csproj.GenerateResource.cache
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.csproj.CoreCompileInputs.cache
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.pdb
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.exe.config
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.exe
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.pdb
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.csprojAssemblyReference.cache
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\_14_Rekurziv_Fa.Form1.resources
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\_14_Rekurziv_Fa.Properties.Resources.resources
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.csproj.GenerateResource.cache
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.csproj.CoreCompileInputs.cache
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.exe
+E:\x Válogatás\Doc\Suli\x 5. féléves cuccok\! Sulis Fileok\Algoritmusok Tervezése és Elemzése\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.pdb
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.exe.config
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.exe
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\bin\Debug\14_Rekurziv_Fa.pdb
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.csproj.AssemblyReference.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\_14_Rekurziv_Fa.Form1.resources
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\_14_Rekurziv_Fa.Properties.Resources.resources
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.csproj.GenerateResource.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.csproj.CoreCompileInputs.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.exe
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\Algo_2_Gyakorlat_Dbz\14_Rekurziv_Fa\obj\Debug\14_Rekurziv_Fa.pdb

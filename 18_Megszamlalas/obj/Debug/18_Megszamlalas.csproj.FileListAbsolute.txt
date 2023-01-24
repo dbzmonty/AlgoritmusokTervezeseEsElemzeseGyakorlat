@@ -1,0 +1,6 @@
+E:\Algo_2_Gyakorlat_Dbz\18_Megszamlalas\bin\Debug\18_Megszamlalas.exe.config
+E:\Algo_2_Gyakorlat_Dbz\18_Megszamlalas\obj\Debug\18_Megszamlalas.csprojResolveAssemblyReference.cache
+E:\Algo_2_Gyakorlat_Dbz\18_Megszamlalas\bin\Debug\18_Megszamlalas.exe
+E:\Algo_2_Gyakorlat_Dbz\18_Megszamlalas\bin\Debug\18_Megszamlalas.pdb
+E:\Algo_2_Gyakorlat_Dbz\18_Megszamlalas\obj\Debug\18_Megszamlalas.exe
+E:\Algo_2_Gyakorlat_Dbz\18_Megszamlalas\obj\Debug\18_Megszamlalas.pdb

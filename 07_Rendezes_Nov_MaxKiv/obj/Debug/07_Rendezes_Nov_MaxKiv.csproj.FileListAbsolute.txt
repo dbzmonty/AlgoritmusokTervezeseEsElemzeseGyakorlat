@@ -1,0 +1,11 @@
+C:\!!!!\Algo_2_Gyakorlat_Dbz\07_Rendezes_Nov_MaxKiv\bin\Debug\07_Rendezes_Nov_MaxKiv.exe.config
+C:\!!!!\Algo_2_Gyakorlat_Dbz\07_Rendezes_Nov_MaxKiv\bin\Debug\07_Rendezes_Nov_MaxKiv.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\07_Rendezes_Nov_MaxKiv\bin\Debug\07_Rendezes_Nov_MaxKiv.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\07_Rendezes_Nov_MaxKiv\obj\Debug\07_Rendezes_Nov_MaxKiv.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\07_Rendezes_Nov_MaxKiv\obj\Debug\07_Rendezes_Nov_MaxKiv.pdb
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\07_Rendezes_Nov_MaxKiv\bin\Debug\07_Rendezes_Nov_MaxKiv.exe.config
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\07_Rendezes_Nov_MaxKiv\bin\Debug\07_Rendezes_Nov_MaxKiv.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\07_Rendezes_Nov_MaxKiv\bin\Debug\07_Rendezes_Nov_MaxKiv.pdb
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\07_Rendezes_Nov_MaxKiv\obj\Debug\07_Rendezes_Nov_MaxKiv.csproj.CoreCompileInputs.cache
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\07_Rendezes_Nov_MaxKiv\obj\Debug\07_Rendezes_Nov_MaxKiv.exe
+C:\Users\Dbz\Desktop\Algo_2_Gyakorlat_Dbz\07_Rendezes_Nov_MaxKiv\obj\Debug\07_Rendezes_Nov_MaxKiv.pdb

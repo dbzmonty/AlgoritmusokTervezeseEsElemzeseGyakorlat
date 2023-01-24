@@ -1,0 +1,10 @@
+E:\Algo_2_Gyakorlat_Dbz\15_Binaris_Fa_Bejaras\bin\Debug\15_Binaris_Fa_Bejaras.exe.config
+E:\Algo_2_Gyakorlat_Dbz\15_Binaris_Fa_Bejaras\bin\Debug\15_Binaris_Fa_Bejaras.exe
+E:\Algo_2_Gyakorlat_Dbz\15_Binaris_Fa_Bejaras\bin\Debug\15_Binaris_Fa_Bejaras.pdb
+E:\Algo_2_Gyakorlat_Dbz\15_Binaris_Fa_Bejaras\obj\Debug\15_Binaris_Fa_Bejaras.exe
+E:\Algo_2_Gyakorlat_Dbz\15_Binaris_Fa_Bejaras\obj\Debug\15_Binaris_Fa_Bejaras.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\15_Binaris_Fa_Bejaras\bin\Debug\15_Binaris_Fa_Bejaras.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\15_Binaris_Fa_Bejaras\obj\Debug\15_Binaris_Fa_Bejaras.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\15_Binaris_Fa_Bejaras\obj\Debug\15_Binaris_Fa_Bejaras.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\15_Binaris_Fa_Bejaras\bin\Debug\15_Binaris_Fa_Bejaras.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\15_Binaris_Fa_Bejaras\bin\Debug\15_Binaris_Fa_Bejaras.pdb

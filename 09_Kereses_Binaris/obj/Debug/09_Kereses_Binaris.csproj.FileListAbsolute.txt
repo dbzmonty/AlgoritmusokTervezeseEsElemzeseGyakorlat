@@ -1,0 +1,6 @@
+C:\!!!!\Algo_2_Gyakorlat_Dbz\09_Kereses_Binaris\bin\Debug\09_Kereses_Binaris.exe.config
+C:\!!!!\Algo_2_Gyakorlat_Dbz\09_Kereses_Binaris\bin\Debug\09_Kereses_Binaris.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\09_Kereses_Binaris\bin\Debug\09_Kereses_Binaris.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\09_Kereses_Binaris\obj\Debug\09_Kereses_Binaris.csprojResolveAssemblyReference.cache
+C:\!!!!\Algo_2_Gyakorlat_Dbz\09_Kereses_Binaris\obj\Debug\09_Kereses_Binaris.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\09_Kereses_Binaris\obj\Debug\09_Kereses_Binaris.pdb

@@ -1,0 +1,6 @@
+E:\Algo_2_Gyakorlat_Dbz\16_Rendezes_Buborek\bin\Debug\16_Rendezes_Buborek.exe.config
+E:\Algo_2_Gyakorlat_Dbz\16_Rendezes_Buborek\bin\Debug\16_Rendezes_Buborek.exe
+E:\Algo_2_Gyakorlat_Dbz\16_Rendezes_Buborek\bin\Debug\16_Rendezes_Buborek.pdb
+E:\Algo_2_Gyakorlat_Dbz\16_Rendezes_Buborek\obj\Debug\16_Rendezes_Buborek.csprojResolveAssemblyReference.cache
+E:\Algo_2_Gyakorlat_Dbz\16_Rendezes_Buborek\obj\Debug\16_Rendezes_Buborek.exe
+E:\Algo_2_Gyakorlat_Dbz\16_Rendezes_Buborek\obj\Debug\16_Rendezes_Buborek.pdb

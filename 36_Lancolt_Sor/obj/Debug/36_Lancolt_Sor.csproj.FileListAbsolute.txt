@@ -1,0 +1,6 @@
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\36_Lancolt_Sor\bin\Debug\36_Lancolt_Sor.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\36_Lancolt_Sor\bin\Debug\36_Lancolt_Sor.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\36_Lancolt_Sor\bin\Debug\36_Lancolt_Sor.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\36_Lancolt_Sor\obj\Debug\36_Lancolt_Sor.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\36_Lancolt_Sor\obj\Debug\36_Lancolt_Sor.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\36_Lancolt_Sor\obj\Debug\36_Lancolt_Sor.csprojResolveAssemblyReference.cache

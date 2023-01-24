@@ -1,0 +1,6 @@
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\31_Lista_Nevek\bin\Debug\31_Lista_Nevek.exe.config
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\31_Lista_Nevek\bin\Debug\31_Lista_Nevek.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\31_Lista_Nevek\bin\Debug\31_Lista_Nevek.pdb
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\31_Lista_Nevek\obj\Debug\31_Lista_Nevek.csprojResolveAssemblyReference.cache
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\31_Lista_Nevek\obj\Debug\31_Lista_Nevek.exe
+C:\!!!!\AlgTerv\Algo_2_Gyakorlat_Dbz\31_Lista_Nevek\obj\Debug\31_Lista_Nevek.pdb

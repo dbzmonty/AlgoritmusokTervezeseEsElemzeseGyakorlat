@@ -1,0 +1,6 @@
+C:\!!!!\Algo_2_Gyakorlat_Dbz\11_Helyettes\bin\Debug\11_Helyettes.exe.config
+C:\!!!!\Algo_2_Gyakorlat_Dbz\11_Helyettes\bin\Debug\11_Helyettes.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\11_Helyettes\bin\Debug\11_Helyettes.pdb
+C:\!!!!\Algo_2_Gyakorlat_Dbz\11_Helyettes\obj\Debug\11_Helyettes.csprojResolveAssemblyReference.cache
+C:\!!!!\Algo_2_Gyakorlat_Dbz\11_Helyettes\obj\Debug\11_Helyettes.exe
+C:\!!!!\Algo_2_Gyakorlat_Dbz\11_Helyettes\obj\Debug\11_Helyettes.pdb
